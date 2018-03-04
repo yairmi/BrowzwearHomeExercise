@@ -1,0 +1,11 @@
+*.VC.opendb
+*.VC.db 
+Debug/
+ipch/
+Release/
+Release-Lib/
+x64/
+BrowzwearHomeExercise/Debug/
+BrowzwearHomeExercise/Release/
+BrowzwearHomeExercise/x64/
+temp/
